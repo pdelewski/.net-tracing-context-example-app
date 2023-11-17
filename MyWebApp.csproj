@@ -20,6 +20,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LogDecorators\LogDecorators.csproj" />
+    <ProjectReference Include="..\LogDecorators\TracingContextDecorator.csproj" />
   </ItemGroup>
 </Project>
